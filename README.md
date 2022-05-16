@@ -5,11 +5,11 @@ This repository holds links to branches of very simple toy applications I have c
 # Install
 
 
-```# If you're me
-git clone github-personal:github-user001/grokked-it.git && git checkout -b thing-you-grokked && mv sample.README.md README.md```
+## If you're me
+`git clone github-personal:github-user001/grokked-it.git && git checkout -b thing-you-grokked && mv sample.README.md README.md`
 
-```# If you're you
-git clone git@github.com:github-user001/grokked-it.git && git checkout -b thing-you-grokked && mv sample.README.md README.md```
+## If you're you
+`git clone git@github.com:github-user001/grokked-it.git && git checkout -b thing-you-grokked && mv sample.README.md README.md`
 
 # Categories
 
